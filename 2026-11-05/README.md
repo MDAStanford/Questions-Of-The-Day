@@ -4,7 +4,7 @@
 
 ## Scenario
 
-Two employees share one generic login for a critical application because the organization can afford only one license. Recommend a practical way forward that balances security, accountability, licensing costs, and business continuity.
+Two employees share one generic login for a critical application because the organization can afford only one license. List the security issues associated with this arrangement, then recommend a practical way forward that balances security, accountability, licensing costs, and business continuity.
 
 ## Security Risks
 
